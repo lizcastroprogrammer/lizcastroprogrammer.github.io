@@ -1,0 +1,107 @@
+body {
+    font: Roboto;
+    font-size: 14px;
+    text-align: center;
+}
+
+.profile-img {
+    width: 260px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.navbar {
+    overflow: hidden;
+    position: fixed;
+    top: 0; 
+    width: 100%; 
+} 
+
+.navbar {
+    padding: 0px;
+}
+
+.navbar-custom {
+    background-color: #05386B;
+}
+
+.navbar-custom .navbar-brand {
+    color: #EDF5E1;
+    padding: 0px 0px 0px 10px;
+    font-family: Hurricane;
+    font-size: 2.5em;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: #EDF5E1;
+}
+
+.navbar-custom .navbar-nav .nav-link.active,
+.navbar-custom .navbar-nav .nav-link:hover {
+    color: #5CDB95;
+}
+  
+.container-fluid {
+    padding: 0px;
+}
+
+.home-section {
+    margin-top: 75px;
+}
+
+.bio-title {
+    font-size: 4em;
+    padding-top: 20px;
+    font-weight: 400;
+    color: #05386B;
+}
+
+.bio-text {
+    font-size: 1.15em;
+    color: #05386B;
+}
+
+a img {
+    width: 80px;
+    height: 200px;
+}
+
+.container {
+    width: 70%;
+}
+
+.card {
+    background-color: white;
+}
+
+.home-section {
+    padding-bottom: 30px;
+    padding-right: 30%;
+    padding-left: 30%;
+}
+
+.video-section {
+    background-color: #5CDB95;
+}
+
+iframe {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.projects {
+    padding-bottom: 80px;
+    text-align: center;
+    padding-top: 90px;
+    color: #05386B;
+    background-color: #f5f8f1;
+}
+
+.projects-title {
+    font-size: 4em;
+    padding-bottom: 80px;
+}
+
+h5 {
+    padding: 10px 0px;
+}
